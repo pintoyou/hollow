@@ -66,9 +66,10 @@ ul.check-list li span{background: #fff; color: #470fac;}
 .token-graphic-detail ul li.color-code-8:before{background: #680000;}
 
 
+.donut {
+	height: 400px;
+	width: 400px;
 
-
-.donut {color: #ffffff;}
 
 /*----- Blog Section -----*/
 .blog-date li:before{background: #fff;}

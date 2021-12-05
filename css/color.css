@@ -2,7 +2,7 @@
 // BASIC STYLE  //----------------------------
 _______________________________________________________*/
 /*---------- General Style ------------*/
-body, html {color: #fff; background: #490fb4;}
+body, html {color: #fff; background: #084ca1;}
 a, a:focus { color: #fff; }
 a:hover {color: #da4bfd; }
 a.active {color: #da4bfd; }
@@ -22,8 +22,8 @@ a.active {color: #da4bfd; }
 .form-control:-moz-placeholder {color: #8d56f3;}
 .heading-title-2 span, .sub-heading {color: #da4bfd;}
 .sub-page-banner{background-color: #410ca3;}
-.skyblue{background-color: #490fb4;}
-.darkblue{background-color: #470fac;}
+.skyblue{background-color: #0f81bf;}
+.darkblue{background-color: #0f81bf;}
 .top-scroll {background: #da4bfd; color: #fff;}
 .top-scroll:hover {opacity: 0.6;}
 .top-scroll a{color: #fff;}
@@ -37,7 +37,7 @@ header.fixed .menu-toggle span, header.fixed .menu-toggle span:before, header.fi
 .menu-toggle.active span{background: transparent;}
 
 /*----- Home Banner -----*/
-.home-banner{background-color: #490fb4;}
+.home-banner{background-color: #084ca1;}
 
 /*----- Work Section -----*/
 ul.check-list li span{background: #fff; color: #470fac;}
@@ -92,7 +92,7 @@ ul.check-list li span{background: #fff; color: #470fac;}
 .coins-progress span {background-color: #d94afd;}
 
 /*----- Feature tow -----*/
-.feature-box-2 .frontend, .feature-box-2 .backend  {background: #5d19db;}
+.feature-box-2 .frontend, .feature-box-2 .backend  {background: #0f81bf;}
 .feature-des {color: #dadada;}
 
 /*----- Roadmap Section -----*/

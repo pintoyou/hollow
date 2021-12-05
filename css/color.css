@@ -37,7 +37,7 @@ header.fixed .menu-toggle span, header.fixed .menu-toggle span:before, header.fi
 .menu-toggle.active span{background: transparent;}
 
 /*----- Home Banner -----*/
-.home-banner{background-color: #084ca1;}
+.home-banner{background-color: #0f81bf;}
 
 /*----- Work Section -----*/
 ul.check-list li span{background: #fff; color: #470fac;}

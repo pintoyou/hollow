@@ -151,7 +151,7 @@ header.fixed {padding: 15px 0px;}
 // Home Page Style  //----------------------------
 _______________________________________________________*/
 /*----- Home Banner -----*/
-.home-banner {padding: 220px 0px 140px 0px; overflow: hidden; background: url(../images/earth2.png) no-repeat center / cover; background-attachment: fixed; background-color: #1ed4ec;}
+.home-banner {padding: 220px 0px 140px 0px; overflow: hidden; background: url(../images/vid.mp4) no-repeat center / cover; background-attachment: fixed; background-color: #1ed4ec;}
 .banner-heading {font-size: 50px; padding-bottom: 10px;}
 .banner-des {font-size: 16px; margin-bottom: 30px;}
 .banner-img {animation: MoveUpDown 2s linear infinite;}
